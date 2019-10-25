@@ -112,7 +112,7 @@ def quick_sort(A, p, r):
 
 if __name__=="__main__":
     A = [5, -4, 6, 3, 7, 11, 1, 2]
-    quick_sort(A,0,len(A)-1)
+    bubble_sort(A)
     # insert_sort(A)
     print(A)
 
