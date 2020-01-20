@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 import sys
+maxint=9223372036854775807
 def merge(nums, first, middle, last):
     ''''' merge '''
     # 切片边界,左闭右开并且是了0为开始
     lnums = nums[first:middle+1]
     rnums = nums[middle+1:last+1]
-    lnums.append(sys.maxint)
-    rnums.append(sys.maxint)
+    lnums.append(maxint)
+    rnums.append(maxint)
     l = 0
     r = 0
     for i in range(first, last+1):
@@ -21,10 +22,12 @@ def merge_sort(nums, first, last):
     merge_sort函数中传递的是下标，不是元素个数
     '''
     if first < last:
-        middle = (first + last)/2
+        middle = int((first + last)/2)
         merge_sort(nums, first, middle)
         merge_sort(nums, middle+1, last)
         merge(nums, first, middle,last)
+
+
 def select_sort(a):
     ''''' 选择排序
     每一趟从待排序的数据元素中选出最小（或最大）的一个元素，
@@ -52,6 +55,7 @@ def bubble_sort(alist):
         if 0 == count:
             break
 
+
 def insert_sort(array):
     for i in range(1, len(array)):
         if array[i - 1] > array[i]:
@@ -62,6 +66,22 @@ def insert_sort(array):
                 index -= 1
             array[index] = temp
 
+def bin_inser(array):
+    for i in range(1, len(array)):
+        if array[i - 1] > array[i]:
+            temp = array[i]  # 当前需要排序的元素
+            index = i  # 用来记录排序元素需要插入的位置
+            beg, end = 0, i-1
+            while (beg <= end):
+                mid = (beg + end) // 2
+                if array[mid] <= temp:
+                    beg = mid + 1
+                else:
+                    end = mid - 1
+            while index > beg:
+                array[index] = array[index - 1]  # 把已经排序好的元素后移一位，留下需要插入的位置
+                index -= 1
+            array[index] = temp
 
 def shell_sort(a):
     ''''' shell排序
@@ -92,6 +112,7 @@ def partition2(A,start,end):
         A[start],A[end]=A[end],A[start]
     return start
 
+
 def partition(A, p, r):
     x = A[r]
     i = p - 1
@@ -104,15 +125,16 @@ def partition(A, p, r):
     A[i + 1], A[r] = A[r], A[i + 1]
     return i + 1
 
+
 def quick_sort(A, p, r):
     if p < r:
         q = partition2(A, p, r)
         quick_sort(A, p, q - 1)
         quick_sort(A, q + 1, r)
 
+
 if __name__=="__main__":
     A = [5, -4, 6, 3, 7, 11, 1, 2]
-    bubble_sort(A)
+    merge_sort(A,0,len(A)-1)
     # insert_sort(A)
-    print(A)
 
