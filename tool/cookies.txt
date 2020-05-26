@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.csdn.net	TRUE	/	FALSE	1735689600	dc_session_id	10_1590503649764.327113
+.csdn.net	TRUE	/	FALSE	1735689600	uuid_tt_dd	10_19643785940-1590503649764-658597
