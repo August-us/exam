@@ -1,62 +1,112 @@
-def MAX_Heapify(heap,HeapSize,root):
-    left = 2*root + 1
-    right = left + 1
-    larger = root
-    if left < HeapSize and heap[larger] < heap[left]:
-    # if left < HeapSize and heap[larger] > heap[left]:#minHeap
-        larger = left
-    if right < HeapSize and heap[larger] < heap[right]:
-    # if right < HeapSize and heap[larger] > heap[right]:#minHeap
-        larger = right
-    if larger != root:
-        heap[larger],heap[root] = heap[root],heap[larger]
-        MAX_Heapify(heap, HeapSize, larger)
+# less函数用于创建大根堆
+def less(left, right):
+    return left<right
 
-def Build_MAX_Heap(heap):
-    HeapSize = len(heap)
-    for i in range((HeapSize -2)//2,-1,-1):
-        MAX_Heapify(heap,HeapSize,i)
+def greater(left,right):
+    return left>right
 
-def HeapSort(heap,prior=0):
-    if prior==0:
-        prior=len(heap)
-    Build_MAX_Heap(heap)
-    for i in range(len(heap)-1,len(heap)-prior-1,-1):
+def siftup(heap, startpos, pos,func=less):
+    newitem = heap[pos]
+    while pos>startpos:
+        parentpos = (pos - 1) >> 1
+        parent = heap[parentpos]
+        if func(parent,newitem):
+            heap[pos] = parent
+            pos = parentpos
+            continue
+        break
+    heap[pos] = newitem
+
+def siftdown(heap, pos,func=less,endpos=None):
+    if endpos is None:
+        endpos=len(heap)
+    newitem = heap[pos]
+    childpos = 2*pos + 1    # leftmost child position
+    while childpos<endpos:
+        rightpos = childpos + 1
+        if rightpos<endpos and func(heap[childpos],heap[rightpos]):
+            childpos = rightpos
+        if func(newitem,heap[childpos]):
+            heap[pos] = heap[childpos]
+            pos = childpos
+            childpos = 2*pos + 1
+        else:
+            break
+
+    heap[pos] = newitem
+def heapRemove(heap: list, item, func=less):
+    if item not in heap:return
+    count = heap.index(item)
+    if count==len(heap)-1:
+        heap.pop()
+        return
+    a = heap.pop()
+    heap[count] = a
+    siftdown(heap, count, func=func)
+
+def heappush(heap, item, func=less):
+    heap.append(item)
+    siftup(heap, 0, len(heap) - 1,func)
+
+def heappop(heap,func=less):
+    lastelt = heap.pop()
+    if heap:
+        returnitem = heap[0]
+        heap[0] = lastelt
+        siftdown(heap, 0,func)
+        return returnitem
+    return lastelt
+
+def heapify(x, func=less):
+    n=len(x)
+    for i in reversed(range(n//2)):
+        print(i,heap)
+        siftdown(x, i,func=func)
+    print(heap)
+
+
+def HeapSort(heap):
+    heapify(heap)
+    for i in range(len(heap)-1,0,-1):
         heap[0],heap[i] = heap[i],heap[0]
-        MAX_Heapify(heap, i, 0)
+        siftdown(heap, 0,endpos=i)
+
     return heap
 
 
-def partition(arr,start,end):
-    i=start+1
-    j=i
-    while(i<=end and j<=end):
-        if arr[j]>arr[start]:
-            # rankth small
-            arr[i],arr[j]=arr[j],arr[i]
-            i+=1
-        j+=1
-    arr[start], arr[i-1] = arr[i-1], arr[start]
-    return i-1
+class DymaicArray():
+    _min=[]
+    _max=[]
+    def findMedian(self) -> float:
+        if not self._max:
+            raise Exception('No elements are available')
+        if len(self._max) ^ len(self._min):
+            return self._max[0]
+        else:
+            return (self._max[0]+self._min[0])/2
 
-
-def get_rank_num(rank,arr,start,end):
-    if start==end:
-        return arr[start]
-    index=partition(arr,start,end)
-    if end-index+1==rank:
-        return arr[index]
-    elif end-index+1>rank:
-        return get_rank_num(rank,arr,index+1,end)
-    else:return get_rank_num(rank-end+index-1,arr,start,index-1)
+    def addNum(self, num: int) -> None:
+        if len(self._max) ^ len(self._min):
+            if num<self._max[0]:
+               heappush(self._max,num,less)
+               num=heappop(self._max,less)
+            heappush(self._min,num,greater)
+        else:
+            if self._min and num>self._min[0]:
+                heappush(self._min,num,greater)
+                num=heappop(self._min,greater)
+            heappush(self._max,num,less)
 
 
 
 if __name__=="__main__":
-    heap=[]
-    a=[30, 50, 57, 77, 62, 78, 94, 80, 84]
-    cont = input().split(' ')
-    for i in cont:
-        heap.append(int(i))
-    # print HeapSort(a)
-    print (get_rank_num(8,a,0,len(a)-1))
+    # heap=[int(i)  for i in input().split(' ')]
+    import numpy as np
+    # heap=np.random.choice(range(1,100),10).tolist()
+    heap=[71, 11, 53, 20, 33, 34, 92, 22, 38, 40]
+    print(HeapSort(heap))
+
+    a = DymaicArray()
+    a.addNum(1)
+    print(a.findMedian())
+

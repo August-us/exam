@@ -1,0 +1,26 @@
+from typing import List
+
+
+class Solution:
+    def removeInvalidParentheses(self, s: str) -> List[str]:
+        s = s.rstrip('(').lstrip(')')
+        s = list(s)
+        left, right, delete = [],[],[]
+        l = r =0
+        for i,c in enumerate(s):
+            if c=='(':
+                l +=1
+            elif c==')':
+                r+=1
+            if r>l:
+                delete.append(i)
+                r -=1
+            left.append(l)
+            right.append(r)
+
+
+        # for l,r in zip(left, right):
+        #     if r>l:
+
+        print(s)
+print(Solution().removeInvalidParentheses("()())()(("))

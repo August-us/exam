@@ -52,7 +52,9 @@ class SolutionForce():
             return self.binaryFind1d(array1d,target,beg,mid-1)
         else:
             return self.binaryFind1d(array1d,target,mid+1,end)
-class Solution1:
+
+
+class Solution_lgn:
     # array 二维列表
     def Find(self, target, array):
         return self.binary_find(array, target, 0, len(array) - 1, 0, len(array[0]) - 1)
@@ -65,9 +67,9 @@ class Solution1:
         if target == array[h][v]:
             return True
         if target < array[h][v]:
-            return self.binary_find(array, target, up, h - 1, left, right) or self.binary_find(array, target, h, down,left, v - 1)
+            return self.binary_find(array, target, h , down, left, v-1) or self.binary_find(array, target, up, h-1,left, right)
         else:
-            return self.binary_find(array, target, h + 1, down, left, v) or self.binary_find(array, target, up, down,v + 1, right)
+            return  self.binary_find(array, target, h + 1, down, left, v) or self.binary_find(array, target, up, down, v + 1, right)
 
 class Solution_froce:
     # array 二维列表
@@ -90,7 +92,8 @@ class SolutionO_n:
                 v+=1
         return False
 
-Solution1().Find(5,[[1,2,8,9],[2,4,9,12],[4,7,10,13],[6,8,11,15]])
-
-print(SolutionO_n().Find(28,[[1,3,4,9,10],[2,5,11,12,15],[6,8,13,14,16],[17,19,21,23,25],[18,20,22,24,26]]))
+Solution_lgn().Find(5,[[1,2,8,9],[2,4,9,12],[4,7,10,13],[6,8,11,15]])
+for i in range(1,27):
+    print(i,Solution_lgn().Find(i,[[1,3,4,9,10],[2,5,11,12,15],[6,8,13,14,16],[17,19,21,23,25],[18,20,22,24,26]]))
+print(Solution_lgn().Find(7,[[1,3,4,9,10],[2,5,11,12,15],[6,8,13,14,16],[17,19,21,23,25],[18,20,22,24,26]]))
 

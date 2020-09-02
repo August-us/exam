@@ -1,16 +1,13 @@
+from functools import reduce
 from scipy.special import comb,factorial
+from math import factorial
 
 def catalan(n):
     return int(comb(2*n,n)/(n+1))
-print(comb(5,2))
-def catalanArray(n):
-    result=[1]
-    for i in range(1,n+1):
-        tmp=0
-        for j in range(i):
-            tmp+=result[j]*result[i-j-1]
-        result.append(tmp)
-    print(result)
+
+
+def catalan1(n):
+    return int(reduce(lambda x,y:x*(n+y)/y,range(2,n+1),1))
 
 def factorial(n):
     result = 1
@@ -20,7 +17,6 @@ def factorial(n):
 
 def factorialArray(arr):
     arr=[1]+arr
-    print(arr)
     tmp=1
     res=[]
     for i in range(1,len(arr)):
@@ -30,6 +26,7 @@ def factorialArray(arr):
     return res
 
 def comb(n,k):
+    # 求阶乘可能会溢出，还可以使用C_n^k=C_{n-1}^{k-1}+C_{n-1}^k来计算
     if k>n/2:
         k=n-k
     res=factorialArray([k,n-k,n])
@@ -39,6 +36,9 @@ def perm(n,m):
     res=factorialArray([n-m,n])
     return res[1]//res[0]
 
-print(comb(5,2))
-res=factorial(10)
-print(res*res*100*11**3)
+if __name__ == '__main__':
+    print(comb(5,2))
+    res=factorial(10)
+    print(res*res*100*11**3)
+    print(catalan1(10))
+    print(catalan(10))

@@ -4,7 +4,7 @@ from itertools import permutations
 class Solution:
     prim = [2, 3, 5, 7, 11]
     def primeFactorization(self, tsum):
-        for i in range(self.prim[-1]+1,int(tsum**0.5)):
+        for i in range(self.prim[-1]+2,int(tsum**0.5),2):
             flag=True
             for j in self.prim:
                 if i%j==0:
@@ -68,7 +68,7 @@ class Solution2:
         # write code here
         res=[]
         for i in range(1,tsum//2+1):
-            for j in range(i,tsum//2+2):
+            for j in range(i+1,tsum//2+2):
                 tmp=(j+i)*(j-i+1)/2
                 if tmp>tsum:
                     break
@@ -79,7 +79,7 @@ import random
 from time import time
 
 # a=random.randint(1,2**32-10)
-a=random.sample(range(1,2**32-1),1)
+a=random.sample(range(1,2**32-1),10)
 start=time()
 for i in a:
     Solution().FindContinuousSequence(i)
