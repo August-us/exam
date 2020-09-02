@@ -1,0 +1,5 @@
+ failed to push some refs to [repository]
+ 出现错误的主要原因是github中的README.md文件不在本地代码目录中,需要通过git pull --rebase进行合并，产生readme之后再push
+ 
+ 
+ 
