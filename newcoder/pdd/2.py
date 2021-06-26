@@ -1,55 +1,53 @@
-from collections import defaultdict
-n = int(input())
-res1 = defaultdict(lambda :0)
-res2 = defaultdict(lambda :0)
+N,M = [int(i) for i in input().split(' ')]
 
-for i in range(n):
-    cur = [int(i) for i in input().split(' ')]
-    o = 0
-    if cur[0] < cur[1]:
-        o+=1
-    if cur[2]<cur[3]:
-        o +=1
-    if cur[4]<cur[5]:
-        o+=1
+board = []
+trans = []
 
-    a, b, c = tuple(sorted(cur[:2])), tuple(sorted(cur[2:4])), tuple(sorted(cur[4:]))
-    if a[0]<b[0] :
-        o+=1
-    if a[0]<c[0]:
-        o+=1
-    if b[0]<c[0]:
-        o+=1
-    if o&1:
+for i in range(N):
+    board.append(input())
+    if 'T' in board[-1]:
+        start = (i, board[-1].index('T'))
 
-        res1[tuple(sorted([a,b,c]))]+=1
-    else:
-        res2[tuple(sorted([a,b,c]))]+=1
+visted = [[False for j in range(M)] for i in range(N)]
+dis = 0
+queue = [start]
+res = []
 
-print(len(res1)+len(res2))
-print(* sorted(list(res1.values())+list(res2.values()), reverse=True))
+
+def visit(i, j, queue):
+    for h,w in [[-1, 0], [1, 0], [0,1],[0, -1]]:
+        if not (i+h < 0 or i+h >= N or j+w<0 or j+w >= M or board[i+h][j+w] == '1' or visted[i+h][j+w]):
+            queue.append((i+h, j+w))
+            visted[i+h][j+w] = True
+            if board[i+h][j+w] == 'X':
+                res.append((i+h, j+w))
+
+while queue:
+    dis += 1
+    newQueue = []
+    for i,j in queue:
+        visted[i][j] = True
+        visit(i,j, newQueue)
+    if res:
+        print(dis)
+        for i,j in sorted(res):
+            print(i,j,end=' ')
+        break
+    queue = newQueue
+else:
+    print(0)
+
+
+
 
 
 '''
-2
-1 2 3 4 5 6
-1 2 6 5 3 4
 
+5 6
+X00100
+00000X
+01T000
+0X1010
+00000X
 
-3
-1 2 3 4 5 6
-1 2 6 5 3 4
-1 2 3 4 6 5
-
-10
-2 5 1 3 4 6
-5 4 3 2 1 6
-1 4 6 2 3 5
-1 5 6 3 4 2
-6 4 2 1 5 3
-3 6 4 5 2 1
-1 6 3 4 2 5
-5 1 4 2 6 3
-6 2 3 1 5 4
-5 3 6 1 4 2
 '''

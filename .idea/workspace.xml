@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/maze.py" line="132" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="47c53930-e2c2-4d16-b1ff-f0915bb26aef" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/newcoder/pdd/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/exam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/exam.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/LCS.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/LCS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/combinationNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/combinationNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/dijkstra.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/dijkstra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/heap_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/heap_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/permute.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/permute.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/200/87. 扰乱字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/200/87. 扰乱字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/200/最大回文子串长度&amp;回文子序列个数.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/200/最大回文子串长度&amp;回文子序列个数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newcoder/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/newcoder/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newcoder/sword_offer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/newcoder/sword_offer/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newcoder/sword_offer/二维数组中的查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/newcoder/sword_offer/二维数组中的查找.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newcoder/sword_offer/判断是否是合理出栈顺序.py" beforeDir="false" afterPath="$PROJECT_DIR$/newcoder/sword_offer/判断是否是合理出栈顺序.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newcoder/sword_offer/前序中序重建二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/newcoder/sword_offer/前序中序重建二叉树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newcoder/sword_offer/和为S的连续正数序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/newcoder/sword_offer/和为S的连续正数序列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newcoder/sword_offer/数组中的逆序对.py" beforeDir="false" afterPath="$PROJECT_DIR$/newcoder/sword_offer/数组中的逆序对.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newcoder/sword_offer/统计一的个数.py" beforeDir="false" afterPath="$PROJECT_DIR$/newcoder/sword_offer/统计一的个数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newcoder/sword_offer/顺时针打印矩阵.py" beforeDir="false" afterPath="$PROJECT_DIR$/newcoder/sword_offer/顺时针打印矩阵.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime_power.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/prime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tool/cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tool/cookies.txt" afterDir="false" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acmcoder/.idea/acmcoder.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acmcoder/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acmcoder/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acmcoder/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/newcoder/华为笔试/__init__.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/exam.iml" afterPath="$PROJECT_DIR$/.idea/exam.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/__init__.py" afterPath="$PROJECT_DIR$/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/findKey.py" afterPath="$PROJECT_DIR$/findKey.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/400/__init__.py" afterPath="$PROJECT_DIR$/leetcode/400/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newcoder/pdd/__init__.py" afterPath="$PROJECT_DIR$/newcoder/pdd/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/leetcode/400/301. 删除无效的括号" afterPath="$PROJECT_DIR$/leetcode/400/301. 删除无效的括号.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/newcoder/pdd/1.py" afterPath="$PROJECT_DIR$/newcoder/pdd/20200831_1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/newcoder/pdd/2.py" afterPath="$PROJECT_DIR$/newcoder/pdd/20200831_2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/newcoder/pdd/3.py" afterPath="$PROJECT_DIR$/newcoder/pdd/20200831_3.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/newcoder/pdd/4.py" afterPath="$PROJECT_DIR$/newcoder/pdd/20200831_4.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/newcoder/华为笔试/条件背包(主附件).py" afterPath="$PROJECT_DIR$/newcoder/huawei/条件背包(主附件).py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,158 +32,80 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/exam$kmp.coverage" NAME="kmp Coverage Results" MODIFIED="1583810506095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$sort.coverage" NAME="sort Coverage Results" MODIFIED="1586325774676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$maximumConnectedSubgraph.coverage" NAME="maximumConnectedSubgraph Coverage Results" MODIFIED="1566786300258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$200325.coverage" NAME="200325填矩阵 Coverage Results" MODIFIED="1585391762351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/阿里" />
-    <SUITE FILE_PATH="coverage/exam$circul.coverage" NAME="circul Coverage Results" MODIFIED="1564821744687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$intention.coverage" NAME="intention Coverage Results" MODIFIED="1567169901129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$209__.coverage" NAME="209. 长度最小的子数组 Coverage Results" MODIFIED="1593229247228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/400" />
-    <SUITE FILE_PATH="coverage/exam$perceptron.coverage" NAME="perceptron Coverage Results" MODIFIED="1587827424217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../deeplearning/machineLearning" />
-    <SUITE FILE_PATH="coverage/exam$maxscore.coverage" NAME="maxscore Coverage Results" MODIFIED="1566314867290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$301.coverage" NAME="301 Coverage Results" MODIFIED="1596199757977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/400" />
-    <SUITE FILE_PATH="coverage/exam$factory.coverage" NAME="factory Coverage Results" MODIFIED="1566742854185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$220___III.coverage" NAME="220. 存在重复元素 III Coverage Results" MODIFIED="1594048571938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/400" />
-    <SUITE FILE_PATH="coverage/exam$20200901_4.coverage" NAME="20200901_4 Coverage Results" MODIFIED="1598962222245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
-    <SUITE FILE_PATH="coverage/exam$secode_module.coverage" NAME="secode_module Coverage Results" MODIFIED="1578470296353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/sword_offer" />
-    <SUITE FILE_PATH="coverage/exam$123.coverage" NAME="123 Coverage Results" MODIFIED="1587093110867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/阿里" />
-    <SUITE FILE_PATH="coverage/exam$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1595593227963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/400" />
-    <SUITE FILE_PATH="coverage/exam$gameTheory.coverage" NAME="gameTheory Coverage Results" MODIFIED="1565008132314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$maze.coverage" NAME="maze Coverage Results" MODIFIED="1564845938203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$TestCase.coverage" NAME="TestCase Coverage Results" MODIFIED="1588346515518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$reversed.coverage" NAME="reversed Coverage Results" MODIFIED="1592647618434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$findGold.coverage" NAME="findGold Coverage Results" MODIFIED="1598187430924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/tencent/20200823" />
-    <SUITE FILE_PATH="coverage/exam$MaximumEqualFrequency.coverage" NAME="MaximumEqualFrequency Coverage Results" MODIFIED="1571105332368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/exam$three_line_quick_sort.coverage" NAME="three_line_quick_sort Coverage Results" MODIFIED="1564534646367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1596380305546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
-    <SUITE FILE_PATH="coverage/exam$ResNet.coverage" NAME="ResNet Coverage Results" MODIFIED="1589855854849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$permute.coverage" NAME="permute Coverage Results" MODIFIED="1586414512662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$Z.coverage" NAME="Z字形变换 Coverage Results" MODIFIED="1583249917536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/exam$gaussianElimination.coverage" NAME="gaussianElimination Coverage Results" MODIFIED="1585400916439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$matplot.coverage" NAME="matplot Coverage Results" MODIFIED="1590329018729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$20200725.coverage" NAME="20200725 Coverage Results" MODIFIED="1595693763527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/双周赛" />
-    <SUITE FILE_PATH="coverage/exam$139__.coverage" NAME="139. 单词拆分 Coverage Results" MODIFIED="1587994837581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/200" />
-    <SUITE FILE_PATH="coverage/exam$_260__III.coverage" NAME="[260]只出现一次的数字 III Coverage Results" MODIFIED="1596246260377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn" />
-    <SUITE FILE_PATH="coverage/exam$nashuzi.coverage" NAME="nashuzi Coverage Results" MODIFIED="1585485923820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/acmcoder/baidu" />
-    <SUITE FILE_PATH="coverage/exam$_310_.coverage" NAME="[310]最小高度树 Coverage Results" MODIFIED="1596795446080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn" />
-    <SUITE FILE_PATH="coverage/exam$slideWindow.coverage" NAME="slideWindow Coverage Results" MODIFIED="1567414641154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$linearRegression.coverage" NAME="linearRegression Coverage Results" MODIFIED="1587305041215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../deeplearning/machineLearning" />
-    <SUITE FILE_PATH="coverage/exam$187__DNA.coverage" NAME="187. 重复的DNA序列 Coverage Results" MODIFIED="1592624780316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/200" />
-    <SUITE FILE_PATH="coverage/exam$graden.coverage" NAME="graden Coverage Results" MODIFIED="1566734345259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$2.coverage" NAME="2 Coverage Results" MODIFIED="1596375247212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
-    <SUITE FILE_PATH="coverage/exam$matrixConnect.coverage" NAME="matrixConnect Coverage Results" MODIFIED="1566992627163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$174__.coverage" NAME="174. 地下城游戏 Coverage Results" MODIFIED="1592405142149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/200" />
-    <SUITE FILE_PATH="coverage/exam$decisionTree.coverage" NAME="decisionTree Coverage Results" MODIFIED="1587438865923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../deeplearning/machineLearning" />
-    <SUITE FILE_PATH="coverage/exam$_299_.coverage" NAME="[299]猜数字游戏 Coverage Results" MODIFIED="1597132816270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn" />
-    <SUITE FILE_PATH="coverage/exam$190320.coverage" NAME="190320最长上升字符串 Coverage Results" MODIFIED="1584802325860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/阿里" />
-    <SUITE FILE_PATH="coverage/exam$licai.coverage" NAME="licai Coverage Results" MODIFIED="1566213988190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$___1_.coverage" NAME="最大回文子串长度&amp;回文子序列个数 (1) Coverage Results" MODIFIED="1587811247893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/200" />
-    <SUITE FILE_PATH="coverage/exam$.coverage" NAME="队列的最大值 Coverage Results" MODIFIED="1596036407792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/sword_offer" />
-    <SUITE FILE_PATH="coverage/exam$_242_.coverage" NAME="[242]有效的字母异位词 Coverage Results" MODIFIED="1595854905703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn" />
-    <SUITE FILE_PATH="coverage/exam$deijinbi.coverage" NAME="deijinbi Coverage Results" MODIFIED="1587951589198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/tencent" />
-    <SUITE FILE_PATH="coverage/exam$dpmaze.coverage" NAME="dpmaze Coverage Results" MODIFIED="1564845679200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$orderMIn.coverage" NAME="orderMIn Coverage Results" MODIFIED="1564819376270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$SVD_Compress.coverage" NAME="SVD_Compress Coverage Results" MODIFIED="1588687461657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/exam$survive.coverage" NAME="survive Coverage Results" MODIFIED="1564500525577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$area.coverage" NAME="area Coverage Results" MODIFIED="1598189911460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/tencent/20200823" />
-    <SUITE FILE_PATH="coverage/exam$pattern.coverage" NAME="pattern Coverage Results" MODIFIED="1587996870945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/tencent" />
-    <SUITE FILE_PATH="coverage/exam$stemTree.coverage" NAME="stemTree Coverage Results" MODIFIED="1564903581960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$20200901_3.coverage" NAME="20200901_3 Coverage Results" MODIFIED="1598964418564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
-    <SUITE FILE_PATH="coverage/exam$meituan5.coverage" NAME="meituan5 Coverage Results" MODIFIED="1585232618870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/acmcoder/美团" />
-    <SUITE FILE_PATH="coverage/exam$_279_.coverage" NAME="[279]完全平方数 Coverage Results" MODIFIED="1596028300968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn" />
-    <SUITE FILE_PATH="coverage/exam$color.coverage" NAME="color Coverage Results" MODIFIED="1566218988531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$166__.coverage" NAME="166. 分数到小数 Coverage Results" MODIFIED="1589382188618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/200" />
-    <SUITE FILE_PATH="coverage/exam$helpOneHelp.coverage" NAME="helpOneHelp Coverage Results" MODIFIED="1568638871552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$combination.coverage" NAME="combination Coverage Results" MODIFIED="1565668616660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$56_.coverage" NAME="56.合并区间 Coverage Results" MODIFIED="1584886024335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/exam$PathwithMaximumGold.coverage" NAME="PathwithMaximumGold Coverage Results" MODIFIED="1571016348037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/exam$200320.coverage" NAME="200320最长上升字符串 Coverage Results" MODIFIED="1585405193981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/阿里" />
-    <SUITE FILE_PATH="coverage/exam$logisticRegression.coverage" NAME="logisticRegression Coverage Results" MODIFIED="1587348359335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../deeplearning/machineLearning" />
-    <SUITE FILE_PATH="coverage/exam$isRepeatingDecimal.coverage" NAME="isRepeatingDecimal Coverage Results" MODIFIED="1564885641380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$pig.coverage" NAME="pig Coverage Results" MODIFIED="1564499627891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$receptiveField.coverage" NAME="receptiveField Coverage Results" MODIFIED="1586916691214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../deeplearning" />
-    <SUITE FILE_PATH="coverage/exam$dajiang.coverage" NAME="dajiang Coverage Results" MODIFIED="1564922478072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$LCS.coverage" NAME="LCS Coverage Results" MODIFIED="1585909254203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$12.coverage" NAME="12 Coverage Results" MODIFIED="1590229736014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool/1212" />
-    <SUITE FILE_PATH="coverage/exam$plotForCsdn.coverage" NAME="plotForCsdn Coverage Results" MODIFIED="1589877502235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$KNN.coverage" NAME="KNN Coverage Results" MODIFIED="1587376775729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../deeplearning/machineLearning" />
-    <SUITE FILE_PATH="coverage/exam$combin.coverage" NAME="combin Coverage Results" MODIFIED="1568815952042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$2048zk.coverage" NAME="2048zk Coverage Results" MODIFIED="1566738923170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$3__1_.coverage" NAME="3 (1) Coverage Results" MODIFIED="1596464982960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
-    <SUITE FILE_PATH="coverage/exam$118_120__.coverage" NAME="118-120. 杨辉三角 Coverage Results" MODIFIED="1587396056249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/exam$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1566910182811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$135__.coverage" NAME="135. 分发糖果 Coverage Results" MODIFIED="1587892089372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/200" />
-    <SUITE FILE_PATH="coverage/exam$ali.coverage" NAME="ali Coverage Results" MODIFIED="1585126396052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$_306_.coverage" NAME="[306]累加数 Coverage Results" MODIFIED="1596205288250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn" />
-    <SUITE FILE_PATH="coverage/exam$montain.coverage" NAME="montain Coverage Results" MODIFIED="1565513786464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$bstt.coverage" NAME="bstt Coverage Results" MODIFIED="1568812333109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$package.coverage" NAME="package Coverage Results" MODIFIED="1564927432761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$baiduTrafic.coverage" NAME="baiduTrafic Coverage Results" MODIFIED="1590398667193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$22_.coverage" NAME="22.括号生成 Coverage Results" MODIFIED="1584701553730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/exam$20200901_1.coverage" NAME="20200901_1 Coverage Results" MODIFIED="1598964268965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
-    <SUITE FILE_PATH="coverage/exam$combinationNumber.coverage" NAME="combinationNumber Coverage Results" MODIFIED="1583387651413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$find_lcsubstr.coverage" NAME="find_lcsubstr Coverage Results" MODIFIED="1564920983063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$216___III.coverage" NAME="216. 组合总和 III Coverage Results" MODIFIED="1593851318518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/400" />
-    <SUITE FILE_PATH="coverage/exam$conflict.coverage" NAME="conflict Coverage Results" MODIFIED="1587974693384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/tencent" />
-    <SUITE FILE_PATH="coverage/exam$randlist.coverage" NAME="randlist Coverage Results" MODIFIED="1566273101494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$_233__1_.coverage" NAME="[233]数字 1 的个数 Coverage Results" MODIFIED="1595756946451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn" />
-    <SUITE FILE_PATH="coverage/exam$3.coverage" NAME="3 Coverage Results" MODIFIED="1596279542960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/猿辅导" />
-    <SUITE FILE_PATH="coverage/exam$48__.coverage" NAME="48. 旋转图像 Coverage Results" MODIFIED="1584784379653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/exam$myCSDN.coverage" NAME="myCSDN Coverage Results" MODIFIED="1590461530761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$CatalanNumber.coverage" NAME="CatalanNumber Coverage Results" MODIFIED="1566787717316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$YangHuiTriangle.coverage" NAME="YangHuiTriangle Coverage Results" MODIFIED="1564631671526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder" />
-    <SUITE FILE_PATH="coverage/exam$4_.coverage" NAME="4.寻找两个有序数组的中位数 Coverage Results" MODIFIED="1583589310202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/exam$Conv_NHWC.coverage" NAME="Conv_NHWC Coverage Results" MODIFIED="1583747719745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$codecs.coverage" NAME="codecs Coverage Results" MODIFIED="1596464868034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/python/Anaconda3/Lib" />
-    <SUITE FILE_PATH="coverage/exam$realtionship.coverage" NAME="realtionship Coverage Results" MODIFIED="1596246934147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/tencent" />
+    <SUITE FILE_PATH="coverage/exam$.coverage" NAME="面试 Coverage Results" MODIFIED="1600157949385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/huawei" />
+    <SUITE FILE_PATH="coverage/exam$temp.coverage" NAME="temp Coverage Results" MODIFIED="1610116000312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/阿里" />
     <SUITE FILE_PATH="coverage/exam$perl.coverage" NAME="perl Coverage Results" MODIFIED="1565512888839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$dijkstra.coverage" NAME="dijkstra Coverage Results" MODIFIED="1587655864241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$minVarine.coverage" NAME="minVarine Coverage Results" MODIFIED="1565508232667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$289_.coverage" NAME="289.生命游戏 Coverage Results" MODIFIED="1596198743687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/400" />
-    <SUITE FILE_PATH="coverage/exam$NumArray.coverage" NAME="NumArray Coverage Results" MODIFIED="1596207689316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$4.coverage" NAME="4 Coverage Results" MODIFIED="1596467500135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
-    <SUITE FILE_PATH="coverage/exam$maxCommonStr.coverage" NAME="maxCommonStr Coverage Results" MODIFIED="1566993744289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$_290_.coverage" NAME="[290]单词规律 Coverage Results" MODIFIED="1596201662527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn" />
-    <SUITE FILE_PATH="coverage/exam$baiduTraffic.coverage" NAME="baiduTraffic Coverage Results" MODIFIED="1590399658539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$iceCream.coverage" NAME="iceCream Coverage Results" MODIFIED="1566046145826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$126___II.coverage" NAME="126. 单词接龙 II Coverage Results" MODIFIED="1587707527290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/200" />
-    <SUITE FILE_PATH="coverage/exam$Floyd.coverage" NAME="Floyd Coverage Results" MODIFIED="1564539594668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$229.coverage" NAME="229 Coverage Results" MODIFIED="1595598676041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/400" />
-    <SUITE FILE_PATH="coverage/exam$SVM.coverage" NAME="SVM Coverage Results" MODIFIED="1587827438536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../deeplearning/machineLearning" />
-    <SUITE FILE_PATH="coverage/exam$S.coverage" NAME="和为S的连续正数序列 Coverage Results" MODIFIED="1582778656297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/sword_offer" />
-    <SUITE FILE_PATH="coverage/exam$langan.coverage" NAME="langan Coverage Results" MODIFIED="1566212775651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$prime.coverage" NAME="prime Coverage Results" MODIFIED="1592747760864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$_.coverage" NAME="最大回文子串长度&amp;回文子序列个数 Coverage Results" MODIFIED="1587721099414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/exam$n.coverage" NAME="n个骰子的点数 Coverage Results" MODIFIED="1582797988244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/sword_offer" />
-    <SUITE FILE_PATH="coverage/exam$stringOrderK.coverage" NAME="stringOrderK Coverage Results" MODIFIED="1564499888324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$Conv_NCHW.coverage" NAME="Conv_NCHW Coverage Results" MODIFIED="1583725172196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$pointSet.coverage" NAME="pointSet Coverage Results" MODIFIED="1598186394219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/tencent/20200823" />
-    <SUITE FILE_PATH="coverage/exam$heap_sort.coverage" NAME="heap_sort Coverage Results" MODIFIED="1596964580686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$218__.coverage" NAME="218. 天际线问题 Coverage Results" MODIFIED="1593917262367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/400" />
-    <SUITE FILE_PATH="coverage/exam$good.coverage" NAME="good Coverage Results" MODIFIED="1564884230042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$plane.coverage" NAME="plane Coverage Results" MODIFIED="1566047419816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$make_anchor.coverage" NAME="make_anchor Coverage Results" MODIFIED="1590315822873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../deeplearning" />
-    <SUITE FILE_PATH="coverage/exam$LeetCoin.coverage" NAME="发LeetCoin Coverage Results" MODIFIED="1569578316686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/exam$upgrade.coverage" NAME="upgrade Coverage Results" MODIFIED="1583395022470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$207__.coverage" NAME="207. 课程表 Coverage Results" MODIFIED="1593011986031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/400" />
-    <SUITE FILE_PATH="coverage/exam$al2.coverage" NAME="al2 Coverage Results" MODIFIED="1585215022020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$jishu.coverage" NAME="jishu Coverage Results" MODIFIED="1565435451104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$list.coverage" NAME="list Coverage Results" MODIFIED="1567781394340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$121_124_.coverage" NAME="121-124 买卖股票的最佳时机 Coverage Results" MODIFIED="1592638078759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/200" />
-    <SUITE FILE_PATH="coverage/exam$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1598190062515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/exam$1.coverage" NAME="1 Coverage Results" MODIFIED="1598150947136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/字节" />
-    <SUITE FILE_PATH="coverage/exam$modelMomery.coverage" NAME="modelMomery Coverage Results" MODIFIED="1590135296192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$guess.coverage" NAME="guess Coverage Results" MODIFIED="1564926390534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$190320_.coverage" NAME="190320-扑克牌 Coverage Results" MODIFIED="1584792980805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/阿里" />
-    <SUITE FILE_PATH="coverage/exam$para.coverage" NAME="para Coverage Results" MODIFIED="1568122251652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
-    <SUITE FILE_PATH="coverage/exam$Imagestitching.coverage" NAME="Imagestitching Coverage Results" MODIFIED="1590233983561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
-    <SUITE FILE_PATH="coverage/exam$2048.coverage" NAME="2048 Coverage Results" MODIFIED="1566737456954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$chuanhua.coverage" NAME="chuanhua Coverage Results" MODIFIED="1564839317054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$_241_.coverage" NAME="[241]为运算表达式设计优先级 Coverage Results" MODIFIED="1596212247099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/400" />
-    <SUITE FILE_PATH="coverage/exam$coffe.coverage" NAME="coffe Coverage Results" MODIFIED="1564923485654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1596795360577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
+    <SUITE FILE_PATH="coverage/exam$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1607826236689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
+    <SUITE FILE_PATH="coverage/exam$301__.coverage" NAME="301. 删除无效的括号 Coverage Results" MODIFIED="1608292203595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/400" />
+    <SUITE FILE_PATH="coverage/exam$MaximumEqualFrequency.coverage" NAME="MaximumEqualFrequency Coverage Results" MODIFIED="1571105332368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/exam$licai.coverage" NAME="licai Coverage Results" MODIFIED="1566213988190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exam$pailie.coverage" NAME="pailie Coverage Results" MODIFIED="1564823942527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exam$tongjishuzi.coverage" NAME="tongjishuzi Coverage Results" MODIFIED="1583311702093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$bstt.coverage" NAME="bstt Coverage Results" MODIFIED="1568812333109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$iceCream.coverage" NAME="iceCream Coverage Results" MODIFIED="1566046145826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$matrixConnect.coverage" NAME="matrixConnect Coverage Results" MODIFIED="1566992627163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$graden.coverage" NAME="graden Coverage Results" MODIFIED="1566734345259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1599398833908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/Tencent" />
+    <SUITE FILE_PATH="coverage/exam$combin.coverage" NAME="combin Coverage Results" MODIFIED="1568815952042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$stemTree.coverage" NAME="stemTree Coverage Results" MODIFIED="1564903581960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$gameTheory.coverage" NAME="gameTheory Coverage Results" MODIFIED="1565008132314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$sort.coverage" NAME="sort Coverage Results" MODIFIED="1578902029733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/exam$1.coverage" NAME="1 Coverage Results" MODIFIED="1600862741811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/oppo" />
+    <SUITE FILE_PATH="coverage/exam$4.coverage" NAME="4 Coverage Results" MODIFIED="1601124166020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
+    <SUITE FILE_PATH="coverage/exam$plane.coverage" NAME="plane Coverage Results" MODIFIED="1566047419816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$maxCommonStr.coverage" NAME="maxCommonStr Coverage Results" MODIFIED="1566993744289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$2.coverage" NAME="2 Coverage Results" MODIFIED="1601120592395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
+    <SUITE FILE_PATH="coverage/exam$combination.coverage" NAME="combination Coverage Results" MODIFIED="1565668616660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$bubble.coverage" NAME="bubble Coverage Results" MODIFIED="1566910182811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$tongjishuzi.coverage" NAME="tongjishuzi Coverage Results" MODIFIED="1565505181528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$pig.coverage" NAME="pig Coverage Results" MODIFIED="1564499627891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$coffe.coverage" NAME="coffe Coverage Results" MODIFIED="1564923485654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$jishu.coverage" NAME="jishu Coverage Results" MODIFIED="1565435451104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$find_lcsubstr.coverage" NAME="find_lcsubstr Coverage Results" MODIFIED="1564920983063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$dajiang.coverage" NAME="dajiang Coverage Results" MODIFIED="1564922478072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$maze.coverage" NAME="maze Coverage Results" MODIFIED="1564845938203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$helpOneHelp.coverage" NAME="helpOneHelp Coverage Results" MODIFIED="1568638871552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$dpmaze.coverage" NAME="dpmaze Coverage Results" MODIFIED="1564845679200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$S.coverage" NAME="和为S的连续正数序列 Coverage Results" MODIFIED="1579142924002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/sword_offer" />
+    <SUITE FILE_PATH="coverage/exam$langan.coverage" NAME="langan Coverage Results" MODIFIED="1566212775651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$myCSDN.coverage" NAME="myCSDN Coverage Results" MODIFIED="1579489350919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
+    <SUITE FILE_PATH="coverage/exam$package.coverage" NAME="package Coverage Results" MODIFIED="1564927432761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/exam$permute.coverage" NAME="permute Coverage Results" MODIFIED="1564885626000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/exam$color.coverage" NAME="color Coverage Results" MODIFIED="1566218988531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$chuanhua.coverage" NAME="chuanhua Coverage Results" MODIFIED="1564839317054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$secode_module.coverage" NAME="secode_module Coverage Results" MODIFIED="1578470296353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/sword_offer" />
+    <SUITE FILE_PATH="coverage/exam$list.coverage" NAME="list Coverage Results" MODIFIED="1567781394340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$2048zk.coverage" NAME="2048zk Coverage Results" MODIFIED="1566738923170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$3.coverage" NAME="3 Coverage Results" MODIFIED="1601126163181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
+    <SUITE FILE_PATH="coverage/exam$intention.coverage" NAME="intention Coverage Results" MODIFIED="1567169901129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$stringOrderK.coverage" NAME="stringOrderK Coverage Results" MODIFIED="1564499888324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$3__1_.coverage" NAME="3 (1) Coverage Results" MODIFIED="1599653364573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/huawei" />
+    <SUITE FILE_PATH="coverage/exam$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1605784029693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
+    <SUITE FILE_PATH="coverage/exam$factory.coverage" NAME="factory Coverage Results" MODIFIED="1566742854185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$guess.coverage" NAME="guess Coverage Results" MODIFIED="1564926390534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1601123548413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/pdd" />
+    <SUITE FILE_PATH="coverage/exam$PathwithMaximumGold.coverage" NAME="PathwithMaximumGold Coverage Results" MODIFIED="1571016348037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/exam$minVarine.coverage" NAME="minVarine Coverage Results" MODIFIED="1565508232667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$LeetCoin.coverage" NAME="发LeetCoin Coverage Results" MODIFIED="1569578316686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/exam$5.coverage" NAME="5 Coverage Results" MODIFIED="1599396153405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder/Tencent" />
+    <SUITE FILE_PATH="coverage/exam$montain.coverage" NAME="montain Coverage Results" MODIFIED="1565513786464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$Floyd.coverage" NAME="Floyd Coverage Results" MODIFIED="1564539594668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/exam$2048.coverage" NAME="2048 Coverage Results" MODIFIED="1566737456954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$maximumConnectedSubgraph.coverage" NAME="maximumConnectedSubgraph Coverage Results" MODIFIED="1566786300258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$circul.coverage" NAME="circul Coverage Results" MODIFIED="1564821744687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$para.coverage" NAME="para Coverage Results" MODIFIED="1568122251652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/exam$YangHuiTriangle.coverage" NAME="YangHuiTriangle Coverage Results" MODIFIED="1564631671526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/newcoder" />
+    <SUITE FILE_PATH="coverage/exam$randlist.coverage" NAME="randlist Coverage Results" MODIFIED="1566273101494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1611575412716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/exam$combinationNumber.coverage" NAME="combinationNumber Coverage Results" MODIFIED="1567169441700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/exam$orderMIn.coverage" NAME="orderMIn Coverage Results" MODIFIED="1564819376270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$good.coverage" NAME="good Coverage Results" MODIFIED="1564884230042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$three_line_quick_sort.coverage" NAME="three_line_quick_sort Coverage Results" MODIFIED="1564534646367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/exam$isRepeatingDecimal.coverage" NAME="isRepeatingDecimal Coverage Results" MODIFIED="1564885641380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$CatalanNumber.coverage" NAME="CatalanNumber Coverage Results" MODIFIED="1566787717316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/exam$slideWindow.coverage" NAME="slideWindow Coverage Results" MODIFIED="1567414641154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$dijkstra.coverage" NAME="dijkstra Coverage Results" MODIFIED="1566046234723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/exam$survive.coverage" NAME="survive Coverage Results" MODIFIED="1564500525577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exam$maxscore.coverage" NAME="maxscore Coverage Results" MODIFIED="1566314867290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -206,57 +124,149 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="exam">
-      <favorite_root url="file://$PROJECT_DIR$/algorithm/permute.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://$PROJECT_DIR$/tool/myCSDN.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1232728770/cv2/cv2/VideoCapture.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://$PROJECT_DIR$/leetcode/200/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1232728770/cv2/cv2/VideoWriter.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://$PROJECT_DIR$/leetcode/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://$PROJECT_DIR$/TestCase.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://$PROJECT_DIR$/tool/SVM（未完成）.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://$PROJECT_DIR$/leetcode/200/135. 分发糖果.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://C:/python/Anaconda3/Lib/site-packages/numpy/core/fromnumeric.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://$PROJECT_DIR$/newcoder/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://$PROJECT_DIR$/newcoder/neterase/安排座位.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://$PROJECT_DIR$/../Crawler/CSDN/baiduTraffic.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-    </favorites_list>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="20200901_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newcoder/pdd/20200901_1.py">
+      <file leaf-file-name="1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newcoder/pdd/1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="19" />
+            <state relative-caret-position="34">
+              <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20200901_2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/newcoder/pdd/20200901_2.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20200901_3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newcoder/pdd/20200901_3.py">
+      <file leaf-file-name="datetime.pyi" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/datetime.pyi">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="211">
+              <caret line="190" column="39" lean-forward="false" selection-start-line="190" selection-start-column="8" selection-end-line="190" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20200901_4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newcoder/pdd/20200901_4.py">
+      <file leaf-file-name="datetime.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Anaconda3/Lib/datetime.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="347">
+              <caret line="1712" column="42" lean-forward="true" selection-start-line="1712" selection-start-column="7" selection-end-line="1712" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.m3u8" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/双周赛/test.m3u8">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newcoder/pdd/3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1008">
+              <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="301. 删除无效的括号.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/400/301. 删除无效的括号.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="688">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/400/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/阿里/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="284" column="17" lean-forward="false" selection-start-line="284" selection-start-column="17" selection-end-line="284" selection-end-column="17" />
+              <folding>
+                <element signature="e#39#70#0" expanded="true" />
+                <element signature="e#221#9541#0" expanded="false" />
+                <element signature="e#221#464#1" expanded="false" />
+                <element signature="e#531#1036#0" expanded="false" />
+                <element signature="e#665#939#0" expanded="false" />
+                <element signature="e#1067#1454#0" expanded="false" />
+                <element signature="e#1180#1231#0" expanded="false" />
+                <element signature="e#1258#1335#0" expanded="false" />
+                <element signature="e#1483#2169#0" expanded="false" />
+                <element signature="e#1483#1672#1" expanded="false" />
+                <element signature="e#1767#1924#0" expanded="false" />
+                <element signature="e#1951#2163#0" expanded="false" />
+                <element signature="e#2027#2128#0" expanded="false" />
+                <element signature="e#2354#7141#0" expanded="false" />
+                <element signature="e#2354#3357#1" expanded="false" />
+                <element signature="e#3395#3858#0" expanded="false" />
+                <element signature="e#3512#3758#0" expanded="false" />
+                <element signature="e#4011#4292#0" expanded="false" />
+                <element signature="e#4399#4538#0" expanded="false" />
+                <element signature="e#4421#4537#0" expanded="false" />
+                <element signature="e#4553#7141#0" expanded="false" />
+                <element signature="e#5244#7141#0" expanded="false" />
+                <element signature="e#5970#6049#0" expanded="false" />
+                <element signature="e#6673#7141#0" expanded="false" />
+                <element signature="e#6713#7066#0" expanded="false" />
+                <element signature="e#6852#7021#0" expanded="false" />
+                <element signature="e#7174#7759#0" expanded="false" />
+                <element signature="e#7353#7556#0" expanded="false" />
+                <element signature="e#7496#7556#0" expanded="false" />
+                <element signature="e#7598#7661#0" expanded="false" />
+                <element signature="e#7688#7759#0" expanded="false" />
+                <element signature="e#7797#8647#0" expanded="false" />
+                <element signature="e#8020#8621#0" expanded="false" />
+                <element signature="e#8296#8328#0" expanded="false" />
+                <element signature="e#8702#9541#0" expanded="false" />
+                <element signature="e#8702#8958#1" expanded="false" />
+                <element signature="e#9584#10612#0" expanded="false" />
+                <element signature="e#9584#9835#1" expanded="false" />
+                <element signature="e#9885#9938#0" expanded="false" />
+                <element signature="e#9993#10612#0" expanded="false" />
+                <element signature="e#9993#10308#1" expanded="false" />
+                <element signature="e#10445#10594#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tool/a.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -267,82 +277,67 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>'$'</find>
-      <find>append(n</find>
-      <find>1的个数</find>
-      <find>的个数</find>
-      <find>滑动窗口</find>
-      <find>队列</find>
-      <find>最大值</find>
-      <find>栈</find>
-      <find>出栈</find>
-      <find>括号</find>
-      <find>只出现</find>
-      <find>并查集</find>
-      <find>binSearch</find>
-      <find>Search</find>
-      <find>accuracy_score</find>
-      <find>天际线</find>
       <find>list</find>
-      <find>torch</find>
-      <find>addOperators</find>
-      <find>t.png</find>
-      <find>floy</find>
-      <find>color</find>
-      <find>self.lef</find>
-      <find>4</find>
-      <find>2</find>
-      <find>TreeNode(int</find>
-      <find>lengthOfLIS</find>
-      <find>C</find>
-      <find>baidu</find>
-      <find>圈子</find>
+      <find>3, 1</find>
+      <find>3, 1]</find>
+      <find>, 19]</find>
+      <find>[2, 1, 19]</find>
+      <find>plot_sur</find>
+      <find>contourf</find>
+      <find>m // 2</find>
+      <find>end=' '</find>
+      <find>100</find>
+      <find>pre</find>
+      <find>r</find>
+      <find>ins</find>
+      <find>bin</find>
+      <find>#,</find>
+      <find>arti</find>
+      <find>stdout</find>
+      <find>article</find>
+      <find>title</find>
+      <find>details</find>
+      <find>articles</find>
+      <find>print</find>
+      <find>kmp</find>
+      <find>perm</find>
+      <find>from itertools import combinations</find>
+      <find>lcs</find>
+      <find>result[</find>
+      <find>L3summary</find>
+      <find>(&lt;li&gt;.*&lt;/li&gt;)</find>
+      <find>(&lt;li&gt;.*?&lt;/li&gt;)</find>
     </findStrings>
     <replaceStrings>
-      <replace>pEnd</replace>
-      <replace>self.isFloat</replace>
-      <replace>root</replace>
-      <replace>L</replace>
-      <replace>V</replace>
-      <replace>circul</replace>
-      <replace>$1:$2,</replace>
-      <replace>,</replace>
-      <replace>img</replace>
-      <replace>lenp</replace>
-      <replace>p[s</replace>
-      <replace>dp[n][m]</replace>
-      <replace>\1,</replace>
-      <replace>]</replace>
-      <replace>width[i]</replace>
-      <replace />
-      <replace>[length-1]</replace>
-      <replace>self.dp[(start1,start2,length-1)]</replace>
-      <replace>self.dp[start1][start2][length-1]</replace>
-      <replace>(start1,start2,length)</replace>
-      <replace>end2</replace>
-      <replace>score</replace>
-      <replace>print($1)</replace>
-      <replace>start:end</replace>
-      <replace>beginIndex</replace>
-      <replace>#</replace>
-      <replace>\n</replace>
-      <replace>b</replace>
-      <replace>np</replace>
-      <replace>D</replace>
+      <replace>INF</replace>
+      <replace>distance</replace>
+      <replace>right_res</replace>
+      <replace>dfs(</replace>
+      <replace>min</replace>
+      <replace>1</replace>
+      <replace>2</replace>
+      <replace>n</replace>
+      <replace>list</replace>
+      <replace>List</replace>
+      <replace>continue</replace>
+      <replace>h</replace>
+      <replace>end='.'</replace>
+      <replace>200</replace>
+      <replace>self.pre</replace>
+      <replace>r</replace>
+      <replace>None,</replace>
+      <replace>$1\n</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\document\python\exam\algorithm</dir>
-      <dir>E:\Code\python\exam\newcoder\sword_offer</dir>
-      <dir>D:\python\exam\leetcode</dir>
-      <dir>D:\python\exam\algorithm</dir>
-      <dir>D:\python\exam</dir>
-      <dir>E:\Code\python\exam</dir>
+      <dir>D:\document\python\exam</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -351,37 +346,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[292]Nim 游戏.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[290]单词规律.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[307]区域和检索 - 数组可修改.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[306]累加数.py" />
-        <option value="$PROJECT_DIR$/algorithm/NumArray.py" />
-        <option value="$PROJECT_DIR$/leetcode/400/__init__.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[241]为运算表达式设计优先级.py" />
-        <option value="$PROJECT_DIR$/leetcode/400/[241]为运算表达式设计优先级.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[257]二叉树的所有路径.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[258]各位相加.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[260]只出现一次的数字 III.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[262]行程和用户.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[268]缺失数字.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[273]整数转换英文表示.py" />
-        <option value="$PROJECT_DIR$/leetcode/400/[273]整数转换英文表示.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[275]H指数 II.py" />
-        <option value="$PROJECT_DIR$/algorithm/sort.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[284]顶端迭代器.py" />
-        <option value="$PROJECT_DIR$/algorithm/__init__.py" />
         <option value="$PROJECT_DIR$/newcoder/猿辅导/3.py" />
         <option value="$PROJECT_DIR$/newcoder/猿辅导/1.py" />
         <option value="$PROJECT_DIR$/acmcoder/__init__.py" />
         <option value="$PROJECT_DIR$/newcoder/猿辅导/2.py" />
-        <option value="$PROJECT_DIR$/newcoder/pdd/1.py" />
-        <option value="$PROJECT_DIR$/newcoder/pdd/2.py" />
-        <option value="$PROJECT_DIR$/newcoder/pdd/3.py" />
-        <option value="$PROJECT_DIR$/newcoder/pdd/4.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[304]二维区域和检索 - 矩阵不可变.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[310]最小高度树.py" />
         <option value="$PROJECT_DIR$/leetcode/400/[310]最小高度树.py" />
-        <option value="$PROJECT_DIR$/newcoder/pdd/__init__.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[282]给表达式添加运算符.py" />
         <option value="$PROJECT_DIR$/leetcode/400/[282]给表达式添加运算符.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[287]寻找重复数.py" />
@@ -396,12 +367,36 @@
         <option value="$PROJECT_DIR$/newcoder/tencent/20200823/pointSet.py" />
         <option value="$PROJECT_DIR$/newcoder/tencent/20200823/findGold.py" />
         <option value="$PROJECT_DIR$/newcoder/tencent/20200823/area.py" />
-        <option value="$PROJECT_DIR$/leetcode/__init__.py" />
         <option value="$PROJECT_DIR$/newcoder/tencent/20200823/insertPar.py" />
         <option value="$PROJECT_DIR$/newcoder/pdd/20200901_4.py" />
         <option value="$PROJECT_DIR$/newcoder/pdd/20200901_1.py" />
         <option value="$PROJECT_DIR$/newcoder/pdd/20200901_3.py" />
         <option value="$PROJECT_DIR$/newcoder/pdd/20200901_2.py" />
+        <option value="$PROJECT_DIR$/newcoder/huawei/面试.py" />
+        <option value="$PROJECT_DIR$/newcoder/huawei/猜测单词.py" />
+        <option value="$PROJECT_DIR$/newcoder/58同城_10近邻搜索.py" />
+        <option value="$PROJECT_DIR$/newcoder/oppo.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/newcoder/oppo/1.py" />
+        <option value="$PROJECT_DIR$/newcoder/__init__.py" />
+        <option value="$PROJECT_DIR$/newcoder/pdd/2.py" />
+        <option value="$PROJECT_DIR$/newcoder/pdd/1.py" />
+        <option value="$PROJECT_DIR$/newcoder/pdd/4.py" />
+        <option value="$PROJECT_DIR$/tool/csdn.md" />
+        <option value="$PROJECT_DIR$/newcoder/pdd/__init__.py" />
+        <option value="$PROJECT_DIR$/tool/跨模态检索文献.md" />
+        <option value="$PROJECT_DIR$/tool/a.html" />
+        <option value="$PROJECT_DIR$/tool/123.css" />
+        <option value="$PROJECT_DIR$/tool/__init__.py" />
+        <option value="$PROJECT_DIR$/newcoder/pdd/3.py" />
+        <option value="$PROJECT_DIR$/leetcode/400/301. 删除无效的括号.py" />
+        <option value="$PROJECT_DIR$/leetcode/阿里/temp.py" />
+        <option value="$PROJECT_DIR$/leetcode/阿里/test.json" />
+        <option value="$PROJECT_DIR$/leetcode/阿里/test.tex" />
+        <option value="$PROJECT_DIR$/../../Tex/test.tex" />
+        <option value="$PROJECT_DIR$/leetcode/400/__init__.py" />
+        <option value="$PROJECT_DIR$/leetcode/双周赛/test.m3u8" />
+        <option value="$PROJECT_DIR$/leetcode/__init__.py" />
       </list>
     </option>
   </component>
@@ -414,19 +409,30 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="699" />
-    <option name="height" value="744" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
       <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -437,13 +443,29 @@
             <path>
               <item name="exam" type="b2602c69:ProjectViewProjectNode" />
               <item name="exam" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="双周赛" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="阿里" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -451,21 +473,23 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/python/Anaconda3/Lib/site-packages/numpy/core/shape_base.py&#10;L&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deeplearning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../image_hl" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\python\exam\newcoder" />
-      <recent name="D:\python\exam\algorithm" />
-      <recent name="E:\Code\python\exam\leetcode\200" />
-      <recent name="E:\Code\python\exam\newcoder\neterase" />
-      <recent name="E:\Code\python\exam\leetcode\1-200" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\document\python\exam\leetcode\阿里" />
       <recent name="E:\Code\python\exam\tool" />
       <recent name="E:\Code\python\exam" />
       <recent name="E:\Code\python\exam\leetcode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\document\python\exam\newcoder\huawei" />
+      <recent name="D:\document\python\exam\acmcoder" />
+      <recent name="D:\python\exam\newcoder" />
+      <recent name="D:\python\exam\algorithm" />
+      <recent name="E:\Code\python\exam\leetcode\200" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -480,28 +504,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.20200901_3">
-    <configuration name="20200901_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="exam" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newcoder/pdd" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newcoder/pdd/20200901_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.__init__ (2)">
     <configuration name="20200901_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -512,34 +516,14 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="exam" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newcoder/pdd/20200901_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="20200901_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="exam" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newcoder/pdd" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newcoder/pdd/20200901_4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="[241]为运算表达式设计优先级" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="exam" />
+    <configuration name="301. 删除无效的括号" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -550,15 +534,32 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/400/[241]为运算表达式设计优先级.py" />
+      <module name="exam" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/400/301. 删除无效的括号.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tool" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="exam" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tool/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="__init__ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -569,12 +570,38 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="exam" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newcoder/pdd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="exam" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newcoder/pdd/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -587,32 +614,12 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="exam" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="area" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="exam" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newcoder/tencent/20200823" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newcoder/tencent/20200823/area.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -634,30 +641,43 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/阿里" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="exam" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/阿里/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list>
-      <item itemvalue="Python.__init__ (1)" />
-      <item itemvalue="Python.area" />
-      <item itemvalue="Python.20200901_1" />
-      <item itemvalue="Python.20200901_3" />
-      <item itemvalue="Python.20200901_4" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.__init__" />
+      <item index="1" class="java.lang.String" itemvalue="Python.__init__ (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.301. 删除无效的括号" />
+      <item index="3" class="java.lang.String" itemvalue="Python.temp" />
+      <item index="4" class="java.lang.String" itemvalue="Python.__init__ (2)" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Python.20200901_3" />
-        <item itemvalue="Python.20200901_1" />
-        <item itemvalue="Python.20200901_4" />
-        <item itemvalue="Python.__init__ (1)" />
-        <item itemvalue="Python.area" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.__init__ (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.temp" />
+        <item index="2" class="java.lang.String" itemvalue="Python.301. 删除无效的括号" />
+        <item index="3" class="java.lang.String" itemvalue="Python.__init__ (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
@@ -676,64 +696,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.6063588" side_tool="true" weight="0.33387887" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.39364117" visible="true" weight="0.3336945" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996215" weight="0.41243863" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.12403101" visible="true" weight="0.17643923" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" sideWeight="0.49769586" weight="0.329296" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="right" x="0" y="23" width="1920" height="1017" id="SciView" order="3" sideWeight="0.49162012" weight="0.329296" />
-      <window_info id="Structure" order="1" sideWeight="0.875969" side_tool="true" weight="0.19227858" />
-      <window_info id="Favorites" order="2" sideWeight="0.7350689" side_tool="true" weight="0.15536572" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.47539744" weight="0.32502708" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="8" />
-      <window_info anchor="right" id="leetcode" order="3" sideWeight="0.5083799" side_tool="true" weight="0.26797882" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24946696" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Data View" order="3" />
-      <window_info anchor="bottom" id="SOQL Query" order="8" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Log Viewer" order="8" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21428572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.318872" sideWeight="0.5191898" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28091106" sideWeight="0.48081023" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264642" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30585682" sideWeight="0.48294243" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24946696" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4928085" visible="true" weight="0.28968903" />
-      <window_info id="Favorites" order="2" sideWeight="0.7350689" side_tool="true" weight="0.15536572" />
-      <window_info anchor="right" id="Data View" order="4" />
-      <window_info id="Structure" order="1" sideWeight="0.87114847" side_tool="true" weight="0.17246597" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="SOQL Query" order="14" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.12885155" visible="true" weight="0.18319455" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.41243863" />
-      <window_info anchor="right" id="leetcode" order="6" side_tool="true" visible="true" weight="0.2611658" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50719154" side_tool="true" visible="true" weight="0.28968903" />
-      <window_info anchor="right" x="0" y="23" width="1920" height="1017" id="SciView" order="3" weight="0.32980332" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="15" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4950795" weight="0.400982" />
-      <window_info anchor="bottom" id="Log Viewer" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1130,18 +1115,14 @@
           <option name="timeStamp" value="1007" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/newcoder/pdd/2.py</url>
+          <url>file://$PROJECT_DIR$/newcoder/pdd/20200831_2.py</url>
           <line>5</line>
           <option name="timeStamp" value="1023" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/newcoder/pdd/3.py</url>
+          <url>file://$PROJECT_DIR$/newcoder/pdd/20200831_3.py</url>
           <line>63</line>
           <option name="timeStamp" value="1028" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/newcoder/pdd/__init__.py</url>
-          <option name="timeStamp" value="1033" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/leetcode/400/[282]给表达式添加运算符.py</url>
@@ -1173,6 +1154,26 @@
           <line>11</line>
           <option name="timeStamp" value="1060" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/newcoder/pdd/2.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1066" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/newcoder/pdd/3.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1067" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/400/301. 删除无效的括号.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="1068" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/400/301. 删除无效的括号.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="1077" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1184,8 +1185,9 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="1061" />
+      <option name="time" value="1079" />
     </breakpoint-manager>
+    <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -1227,255 +1229,356 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithm/Floyd.py">
+    <entry file="file://D:/Anaconda3/envs/crep/Lib/site-packages/skimage/filters/rank/generic.py" />
+    <entry file="file://$PROJECT_DIR$/leetcode/阿里/20200417笔试.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="true" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/python/Anaconda3/Lib/codecs.py">
+    <entry file="file://$PROJECT_DIR$/newcoder/huawei/3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="310" selection-start-line="310" selection-end-line="310" />
+        <state relative-caret-position="208">
+          <caret line="13" column="66" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/python/Anaconda3/Lib/functools.py">
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/634400268/itertools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="749" column="24" selection-start-line="749" selection-start-column="4" selection-end-line="749" selection-end-column="24" />
+        <state relative-caret-position="199">
+          <caret line="137" column="8" lean-forward="false" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/python/Anaconda3/Lib/site-packages/sklearn/metrics/classification.py">
+    <entry file="file://$PROJECT_DIR$/newcoder/huawei/猜测单词.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="615" column="32" selection-start-line="614" selection-start-column="4" selection-end-line="615" selection-end-column="32" />
+        <state relative-caret-position="-320">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/python/Anaconda3/Lib/site-packages/sklearn/metrics/ranking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="429" column="37" selection-start-line="428" selection-start-column="4" selection-end-line="429" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[310]最小高度树.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[304]二维区域和检索 - 矩阵不可变.py" />
-    <entry file="file://$PROJECT_DIR$/leetcode/400/[310]最小高度树.py" />
-    <entry file="file://$PROJECT_DIR$/newcoder/pdd/__init__.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[282]给表达式添加运算符.py" />
-    <entry file="file://$PROJECT_DIR$/leetcode/400/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/leetcode/400/[282]给表达式添加运算符.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[287]寻找重复数.py" />
-    <entry file="file://C:/python/Anaconda3/Lib/site-packages/scipy/cluster/vq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="150" column="41" selection-start-line="150" selection-start-column="4" selection-end-line="150" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python/Anaconda3/Lib/heapq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="129" column="23" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[295]数据流的中位数.py" />
-    <entry file="file://$PROJECT_DIR$/algorithm/heap_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="81" column="47" lean-forward="true" selection-start-line="81" selection-start-column="47" selection-end-line="81" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python/Anaconda3/Lib/site-packages/sklearn/neighbors/unsupervised.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="117" column="61" selection-start-line="115" selection-start-column="23" selection-end-line="117" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python/Anaconda3/Lib/site-packages/sklearn/neighbors/classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="171" column="8" selection-start-line="171" selection-start-column="8" selection-end-line="171" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python/Anaconda3/Lib/site-packages/sklearn/neighbors/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="272" column="72" lean-forward="true" selection-start-line="272" selection-start-column="8" selection-end-line="272" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/400/[287]寻找重复数.py" />
-    <entry file="file://$PROJECT_DIR$/TestCase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="102" column="19" lean-forward="true" selection-start-line="93" selection-start-column="8" selection-end-line="102" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python/Anaconda3/Lib/json/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="301" column="4" selection-start-line="301" selection-start-column="4" selection-end-line="301" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a.json" />
-    <entry file="file://C:/python/Anaconda3/Lib/site-packages/sklearn/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="324" column="45" selection-start-line="324" selection-start-column="8" selection-end-line="324" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[297]二叉树的序列化与反序列化.py" />
-    <entry file="file://$PROJECT_DIR$/leetcode/400/218. 天际线问题.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[299]猜数字游戏.py" />
-    <entry file="file://C:/python/Anaconda3/Lib/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="489" column="32" selection-start-line="489" selection-start-column="4" selection-end-line="489" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python/Anaconda3/Lib/site-packages/pandas/core/frame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="819" column="58" selection-start-line="819" selection-start-column="8" selection-end-line="819" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python/Anaconda3/Lib/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="2539" column="26" selection-start-line="2539" selection-start-column="4" selection-end-line="2539" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python/Anaconda3/Lib/site-packages/dask/dataframe/io/parquet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2105">
-          <caret line="297" column="4" selection-start-line="297" selection-start-column="4" selection-end-line="297" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[300]最长上升子序列.py" />
     <entry file="file://$PROJECT_DIR$/algorithm/LCS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1558">
-          <caret line="82" column="23" selection-start-line="66" selection-start-column="4" selection-end-line="82" selection-end-column="23" />
+        <state relative-caret-position="496">
+          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/字节/1.py" />
-    <entry file="file://$PROJECT_DIR$/newcoder/tencent/20200823/pointSet.py">
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/634400268/numpy/core/umath.py" />
+    <entry file="file://D:/Anaconda3/envs/crep/Lib/site-packages/numpy/core/fromnumeric.py" />
+    <entry file="file://D:/Anaconda3/envs/crep/Lib/heapq.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        <state relative-caret-position="-557">
+          <caret line="523" column="4" lean-forward="false" selection-start-line="523" selection-start-column="4" selection-end-line="523" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/tencent/20200823/area.py">
+    <entry file="file://$PROJECT_DIR$/newcoder/huawei/条件背包(主附件).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="87" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="87" />
+        <state relative-caret-position="-240">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/tencent/20200823/findGold.py">
+    <entry file="file://$PROJECT_DIR$/newcoder/oppo.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/tencent/20200823/insertPar.py">
+    <entry file="file://$PROJECT_DIR$/newcoder/huawei/1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        <state relative-caret-position="848">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="58" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/package.py">
+    <entry file="file://$PROJECT_DIR$/newcoder/huawei/2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="43" />
+        <state relative-caret-position="96">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-2009934813/math.py">
+    <entry file="file://$PROJECT_DIR$/newcoder/huawei/面试.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="320">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/RBTree.py">
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2036615904/_functools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1330" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/Trie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1794" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/neterase/安排座位.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="208">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/tencent/conflict.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/union_find.py">
+    <entry file="file://$PROJECT_DIR$/newcoder/58同城_10近邻搜索.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="7" selection-start-line="3" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="18">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/oppo/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/pdd/4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/pdd/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/123.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/pdd/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/跨模态检索文献.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="368">
+            <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/web/Lib/site-packages/pyautogui/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/tool/a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/pdd/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../note/tools use/cmd.reg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/400/301. 删除无效的括号.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
-            <element signature="e#65#642#0" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/pdd/20200901_3.py">
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2036615904/cv2/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="115">
+          <caret line="7650" column="31" lean-forward="false" selection-start-line="7650" selection-start-column="25" selection-end-line="7650" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/pdd/20200901_4.py">
+    <entry file="file://D:/Anaconda3/Lib/site-packages/numpy/core/fromnumeric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="211">
+          <caret line="1763" column="24" lean-forward="false" selection-start-line="1763" selection-start-column="19" selection-end-line="1763" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/pdd/20200901_1.py">
+    <entry file="file://D:/Anaconda3/Lib/site-packages/PIL/Image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="19" />
+        <state relative-caret-position="211">
+          <caret line="2169" column="4" lean-forward="false" selection-start-line="2169" selection-start-column="4" selection-end-line="2169" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newcoder/pdd/20200901_2.py">
+    <entry file="file://D:/Anaconda3/envs/crep/Lib/site-packages/PIL/Image.py" />
+    <entry file="file://$PROJECT_DIR$/leetcode/阿里/下载3.jpg" />
+    <entry file="file://$PROJECT_DIR$/leetcode/阿里/temp.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2036615904/nt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="211">
+          <caret line="391" column="4" lean-forward="false" selection-start-line="391" selection-start-column="4" selection-end-line="391" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/August-us/Files/DLHIVpytorch.py" />
+    <entry file="file://$PROJECT_DIR$/leetcode/阿里/test.tex" />
+    <entry file="file://$PROJECT_DIR$/leetcode/阿里/test.json" />
+    <entry file="file://$PROJECT_DIR$/../../Tex/test.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/双周赛/test.m3u8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="257" column="17" lean-forward="true" selection-start-line="257" selection-start-column="17" selection-end-line="257" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2036615904/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="766" column="61" lean-forward="true" selection-start-line="766" selection-start-column="18" selection-end-line="766" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="1712" column="42" lean-forward="true" selection-start-line="1712" selection-start-column="7" selection-end-line="1712" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/datetime.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="190" column="39" lean-forward="false" selection-start-line="190" selection-start-column="8" selection-end-line="190" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newcoder/pdd/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/400/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/阿里/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="284" column="17" lean-forward="false" selection-start-line="284" selection-start-column="17" selection-end-line="284" selection-end-column="17" />
+          <folding>
+            <element signature="e#39#70#0" expanded="true" />
+            <element signature="e#221#9541#0" expanded="false" />
+            <element signature="e#221#464#1" expanded="false" />
+            <element signature="e#531#1036#0" expanded="false" />
+            <element signature="e#665#939#0" expanded="false" />
+            <element signature="e#1067#1454#0" expanded="false" />
+            <element signature="e#1180#1231#0" expanded="false" />
+            <element signature="e#1258#1335#0" expanded="false" />
+            <element signature="e#1483#2169#0" expanded="false" />
+            <element signature="e#1483#1672#1" expanded="false" />
+            <element signature="e#1767#1924#0" expanded="false" />
+            <element signature="e#1951#2163#0" expanded="false" />
+            <element signature="e#2027#2128#0" expanded="false" />
+            <element signature="e#2354#7141#0" expanded="false" />
+            <element signature="e#2354#3357#1" expanded="false" />
+            <element signature="e#3395#3858#0" expanded="false" />
+            <element signature="e#3512#3758#0" expanded="false" />
+            <element signature="e#4011#4292#0" expanded="false" />
+            <element signature="e#4399#4538#0" expanded="false" />
+            <element signature="e#4421#4537#0" expanded="false" />
+            <element signature="e#4553#7141#0" expanded="false" />
+            <element signature="e#5244#7141#0" expanded="false" />
+            <element signature="e#5970#6049#0" expanded="false" />
+            <element signature="e#6673#7141#0" expanded="false" />
+            <element signature="e#6713#7066#0" expanded="false" />
+            <element signature="e#6852#7021#0" expanded="false" />
+            <element signature="e#7174#7759#0" expanded="false" />
+            <element signature="e#7353#7556#0" expanded="false" />
+            <element signature="e#7496#7556#0" expanded="false" />
+            <element signature="e#7598#7661#0" expanded="false" />
+            <element signature="e#7688#7759#0" expanded="false" />
+            <element signature="e#7797#8647#0" expanded="false" />
+            <element signature="e#8020#8621#0" expanded="false" />
+            <element signature="e#8296#8328#0" expanded="false" />
+            <element signature="e#8702#9541#0" expanded="false" />
+            <element signature="e#8702#8958#1" expanded="false" />
+            <element signature="e#9584#10612#0" expanded="false" />
+            <element signature="e#9584#9835#1" expanded="false" />
+            <element signature="e#9885#9938#0" expanded="false" />
+            <element signature="e#9993#10612#0" expanded="false" />
+            <element signature="e#9993#10308#1" expanded="false" />
+            <element signature="e#10445#10594#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

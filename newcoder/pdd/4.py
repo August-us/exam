@@ -1,49 +1,22 @@
-area = [input() for i in range(6)]
-res = 1
-def get(i,j):
-    if 0<=i<6 and 0<=j<6 and area[i][j]=='#':
-        return 1
-    return 0
-
-for i in range(6):
-    for j in range(6):
-        if area[i][j]=='#':
-            other = get(i-1,j) + get(i,j-1)
-            if other==2:
-                if get(i-1,j-1):
-                    res = res//6*25
-                else:
-                    res = res//36 *25
-            elif other==1:
-                res *= 5
-            else:
-                res *=6
-            res %= 1000000009
-print(res)
-
+H ,W = [int(i) for i in input().split(' ')]
+mod = int(1e9+7)
+if H < W:
+    H,W = W, H
+if W == 1:
+    print(1)
+if W == 2:
+    f0, f1 = 1, 1
+    for i in range(H-1):
+        f0, f1 = f1, f0+f1
+    print(f1 % mod)
+else:
+    print(0)
 
 
 '''
-#*****
-******
-******
-******
-******
-*****#
+4 2
 
-#****
-##****
-******
-******
-******
-******
-'''
+3 3
 
-'''
-##****
-#*****
-******
-******
-******
-******
+5 2
 '''

@@ -1,137 +1,63 @@
-def main():
-    n,m,t = [int(i) for i in input().split(' ')]
-    if t ==0:
-        print(0)
-        return
-    res = float('inf')
-    mid = [[0,0]]
-    night = [[0,0]]
-    minmid = float('inf')
-    for _ in range(n):
-        mid.append([int(i) for i in input().split(' ')])
-        minmid = min(minmid, mid[-1][0])
-    mid.sort(key=lambda x:x[1])
-    for _ in range(m):
-        night.append([int(i) for i in input().split(' ')])
-    night.sort(key=lambda x:x[1])
-    print(mid)
-    print(night)
-    if mid[-1][1] + night[-1][1] < t:
-        print(-1)
-        return
-    for i in range(len(mid)-1, -1, -1):
-        if mid[i][1] + night[-1][1] < t:
-            break
-        for j in range(len(night)-1, -1, -1):
-            if mid[i][1] + night[j][1] >=t:
-                res = min(res ,mid[i][0] + night[j][0])
-            else:
-                break
-        if mid[i][0]==minmid:
-            break
-    print(res)
+from collections import defaultdict
 
 
-def deleteSupported(array):
-    array.sort(key=lambda x:x[1],reverse=True)
-    newArray = []
-    pre = float('inf')
-    for item in array:
-        if item[0] < pre:
-            pre = item[0]
-            newArray.append(item)
-    return newArray  # 注意，这里已经是倒序了，所以后面循环不需要倒序
+for K in range(int(input())):
+    n,k =  [int(i) for i in input().split(' ')]
+    capacity =  [int(i) for i in input().split(' ')]
+    realtion = defaultdict(set)
+    for _ in range(n-1):
+        a,b = [int(i) for i in input().split(' ')]
+        realtion[a].add(b)
+        realtion[b].add(a)
 
-def main():
-    n,m,t = [int(i) for i in input().split(' ')]
-    if t ==0:
-        print(0)
-        return
-    res = float('inf')
-    mid = [[0,0]]
-    night = [[0,0]]
-    for _ in range(n):
-        mid.append([int(i) for i in input().split(' ')])
-    mid = deleteSupported(mid)
-    for _ in range(m):
-        night.append([int(i) for i in input().split(' ')])
-    night = deleteSupported(night)
+    last = set(range(1, 1+n))
 
-    if mid[0][1] + night[0][1] < t:
-        print(-1)
-        return
-    i, j = len(mid)-1, 0
-    while j<len(night) and i>=0:
-        if mid[i][1] + night[j][1] >= t:
-            res = min(res, mid[i][0] + night[j][0])
-            j+=1
+    memory = {}
+    def find_max_capacity(last, k):
+        if len(last) < k:
+            return -float('inf')
+        key = (tuple(sorted(last)), k)
+        if key in memory:
+            return memory[key]
+        if k == 1:
+            memory[key] =  max(map(lambda x:capacity[x-1], last))
         else:
-            i -=1
-    print(res)
+            memory[key] = -float('inf')
+            for i in last.copy():
+                last.remove(i)
 
+                tmp = set()
+                for j in realtion[i]:
+                    if j in last:
+                        last.remove(j)
+                        tmp.add(j)
+                memory[key] = max(find_max_capacity(last.copy(), k-1)+capacity[i-1] ,memory[key])
+                last = last.union( tmp)
 
-def main1():
-    n,m,t = [int(i) for i in input().split(' ')]
-    if t ==0:
-        print(0)
-        return
-    res = float('inf')
-    mid = [[0,0]]
-    night = [[0,0]]
-    for _ in range(n):
-        mid.append([int(i) for i in input().split(' ')])
-    mid = deleteSupported(mid)
-    for _ in range(m):
-        night.append([int(i) for i in input().split(' ')])
-    night = deleteSupported(night)
-
-    if mid[0][1] + night[0][1] < t:
+        return memory[key]
+    res = find_max_capacity(last, k)
+    if res == -float('inf'):
         print(-1)
-        return
-    for i in range(len(mid)):
-        if mid[i][1] + night[0][1] < t:
-            break
-        for j in range(len(night)):
-            if mid[i][1] + night[j][1] >=t:
-                res = min(res ,mid[i][0] + night[j][0])
-            else:
-                break
-    print(res)
+    else:
+        print(res)
 
-if __name__ == '__main__':
-    main1()
+
+
 '''
-5 1 9
-9 1
-4 9
-3 1
-2 3
-6 5
-9 8
-
-
-1 1 0
-3 1
-2 1
-
-3 3 10
-1 1
-2 5
-3 7
-2 4
-8 8
-6 9
-
-2 1 4
-3 1
-2 1
+1
+5 2
+2 3 1 5 4
 1 2
+1 3
+1 4
+1 5
 
-
-2 2 9
-5 9
-4 8
-5 9
-3 9
+1
+5 1
+2 4 5 1 3
+1 2
+1 3
+1 5
+3 4
 '''
 

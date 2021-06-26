@@ -1,25 +1,67 @@
-k ,n = [int(i) for i in input().split(' ')]
+for T in range(int(input())):
+    N = int(input())
+    coe = N // 10
 
-N = [int(i) for i in input().split(' ')]
-res = 0
-for id,i in enumerate(N):
-    if i==k and id!=n-1:
-        print('paradox')
-        break
-    elif i<=k:
-        k-=i
+    board = []
+    for i in range(N):
+        board.append(input().split(' '))
+    if board[1*coe][3*coe] == '0':
+        if board[3*coe][2*coe] == '0':
+            print(1)
+        else:
+            print(4)
+    elif board[1*coe][2*coe] =='1':
+        if board[1*coe][4*coe] == '0':
+            print(5)
+        else:
+            print(7)
+    elif board[2*coe][4*coe] == '1':
+        print(2)
+    elif board[3*coe][2*coe] == '0':
+        print(3)
+    elif board[2*coe][6*coe] == '0':
+        print(6)
+    elif board[4*coe][2*coe] == '1':
+        print(0)
+    elif board[4*coe][7*coe] =='0':
+        print(8)
     else:
-        k=i-k
-        res +=1
-else:
-    print(k, res)
+        print(9)
+
+
 '''
-10 2
-6 3
+2
+10
+0 0 0 0 0 0 0 0 0 0
+0 0 0 1 1 1 1 0 0 0
+0 0 1 1 0 0 1 1 0 0
+0 0 1 1 0 0 1 1 0 0
+0 0 0 1 1 1 1 1 0 0
+0 0 0 0 0 0 1 1 0 0
+0 0 0 0 0 0 1 1 0 0
+0 0 0 1 1 1 1 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+20
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 
+0 0 1 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 
+0 0 1 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 
-10 4
-6 3 3 3
-
-6 3
-4 2 6
 '''
